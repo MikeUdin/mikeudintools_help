@@ -1,6 +1,6 @@
 # Overview
 
-![](../.gitbook/assets/1025.png)
+![](../../.gitbook/assets/1025.png)
 
 ### Render settings
 
@@ -19,7 +19,7 @@ For each selected material,object or texture tag, **TakeMatPass** creates a sepa
 
 This options group reflects the same parameters of Material Override settings.
 
-![](../.gitbook/assets/1027.png)
+![](../../.gitbook/assets/1027.png)
 
 _If not all material properties should be replaced and only specific channels should be excluded or Displacement enable the corresponding option here. These channels will then be assumed by the original material. Note that the Diffuse Color option includes the Color AND Diffuse channels!_   
  Check out more info about this Cinema 4D feature [here](https://help.maxon.net/us/#DRENDERSETTINGS-RDATA_GROUP_OVERRIDEMAT).

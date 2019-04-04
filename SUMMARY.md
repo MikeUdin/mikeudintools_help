@@ -5,7 +5,8 @@
 * [Plug-ins Installation](plug-ins-installation.md)
 * [TakeMatPass](takematpass/README.md)
   * [Version history](takematpass/version-history.md)
-  * [Overview](takematpass/overview.md)
+  * [Overview](takematpass/overview/README.md)
+    * [Videotutorials](takematpass/overview/videotutorials.md)
 
 ## TakeMatPass
 
