@@ -1,6 +1,6 @@
 # Custom Buttons
 
-![Custom Button plug-in main window](../.gitbook/assets/1043.png)
+![Custom Buttons plug-in main window](../.gitbook/assets/1043.png)
 
 ![Button in action](../.gitbook/assets/1044.png)
 
