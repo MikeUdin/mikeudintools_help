@@ -26,5 +26,8 @@
 * [Custom Buttons](custom-buttons/README.md)
   * [Version history](custom-buttons/version-history.md)
   * [How it works](custom-buttons/how-it-works.md)
-* [Creating the preset](creating-the-preset.md)
+  * [Creating the preset](custom-buttons/creating-the-preset.md)
+  * [Icon and description](custom-buttons/icon-and-description.md)
+  * [Saving button](custom-buttons/saving-button.md)
+  * [Utilizing button](custom-buttons/utilizing-button.md)
 
