@@ -18,4 +18,13 @@
 * [Fast Spline Connector](fast-spline-connector/README.md)
   * [Version history](fast-spline-connector/version-history.md)
   * [Overview](fast-spline-connector/overview.md)
+* [Shuffler](shuffler/README.md)
+  * [Videotutorials](shuffler/videotutorials.md)
+  * [Version history](shuffler/version-history.md)
+* [Boole cutter](boole-cutter/README.md)
+  * [Videotutorials](boole-cutter/videotutorials.md)
+* [Custom Buttons](custom-buttons/README.md)
+  * [Version history](custom-buttons/version-history.md)
+  * [How it works](custom-buttons/how-it-works.md)
+* [Creating the preset](creating-the-preset.md)
 
