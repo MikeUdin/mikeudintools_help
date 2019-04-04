@@ -1,6 +1,6 @@
 # About
 
-Hello guys! My name is Mike Udin. Here you can find help information about my free or commercial scripts and plug-ins.
+Hello guys! My name is Mike Udin. [Here](https://mikeudintools.gitbook.io/help/) you can find help information about my free or commercial scripts and plug-ins.
 
 ### Disclaimer
 
