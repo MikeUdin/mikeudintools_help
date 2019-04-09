@@ -6,8 +6,7 @@
 
 **UV Colorizer** script do not have an user interface. All you have to do it's just a launch the script from scripts menu.
 
-Script creates a color mask for UV by creating a separate materials for each UV island painted in its own unique color.   
- Then the texture of the model, using the Bake Texture tag, bakes to image with the desired parameters.  
+Script creates a color mask for UV by creating a separate materials for each UV island painted in its own unique color. Then the texture of the model, using the Bake Texture tag, bakes to image with the desired parameters.  
 
 
 ### How it works
