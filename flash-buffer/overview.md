@@ -2,7 +2,7 @@
 
 ![Create tab](../.gitbook/assets/snimok-ekrana-2016-05-13-v-1.15.59.png)
 
-On this tab, the user can create OB passes using the two methods **Separate** and **Single group**. In the **Separate Mode**, individual passes for all objects selected in the OM will be created, in the **Single Group mode** all selected objects will be placed on one common pass.
+On this tab, user can create OB passes using the two methods **Separate** and **Single group**. In the **Separate Mode**, individual passes for all objects selected in the OM will be created, in the **Single Group mode** all selected objects will be placed on one common pass.
 
 **Enable in render** activites created pass in the render settings.   
 **All Render Settings** checkbox indicates the creation of passes for all available rendering settings.
@@ -12,7 +12,7 @@ The **Apply pass** button applies existing OB passes to the selected objects.
 ![Delete tab](../.gitbook/assets/snimok-ekrana-2016-05-13-v-1.16.00.png)
 
 On this tab, you can delete OB passes for all selected objects \(**Selected objects option**\), as well as for all objects in the document \(**All objects of the document option**\). The **Delete Compositing tags** option means that all Compositing tags will be deleted if their other settings are not activated.  
-The **Delete pass** button deletes the passes that are available in the scene or for selected in Object Manager objects.
+The **Delete pass** button deletes the passes that are available in the scene or for selected in **Object Manager** objects.
 
 
 
