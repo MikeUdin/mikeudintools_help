@@ -10,5 +10,17 @@ Drag the selected object or parameter into the plug-in window.
 
 ![](../.gitbook/assets/1046.png)
 
+If you want to create a new preset based on dropped object or parameter just drop it on to empty space of the window. If you want add object or parameter to existing preset, drop it under preset header, to add a list of other objects or parameters.
+
+By default after dropping object or parameter on to the preset list window new preset appears with a name that describes shortly its properties. To change default preset name you can open plugin window menu **Edit &gt;** **Preferences.**
+
+![Default preset name preferences window](../.gitbook/assets/custom_buttons_preferences.png)
+
+![Preset types](../.gitbook/assets/custom_buttons_preferences_types.png)
+
+Now you can define new default preset name using this tokens:
+
+**$obj** — as object name, **$group** — parameter group name, **$param** — parameter name, **$value** — parameter value. ****
+
 After specifying all the data in the drop zone, a new group will appear with the object. Thus, you can add an unlimited number of groups, and groups can be filled with an unlimited number of objects or parameters.
 
