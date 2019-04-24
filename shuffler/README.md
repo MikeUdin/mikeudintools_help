@@ -6,5 +6,5 @@
 
  Free plugin **Shuffler** swaps certain properties of selected objects.
 
-[Shuffler webpage](http://mikeudin.loc/product/boole_cutter/)
+Shuffler webpage
 
