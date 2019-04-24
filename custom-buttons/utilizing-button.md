@@ -1,7 +1,7 @@
 # Utilizing button
 
 Open the Cinema 4D menu **Window &gt; Customization &gt; Customize Commands...**. Use **Name filter** to find your script. Drag the button to the toolbar and close **Customize Commands...**. window.   
- If the button contains only one preset, the program will execute it, but if there are more presets, an additional pop-up menu will appear.
+If the button contains only one preset, the program will execute it, but if there are more presets, an additional pop-up menu will appear.
 
 ![](../.gitbook/assets/1007.png)
 

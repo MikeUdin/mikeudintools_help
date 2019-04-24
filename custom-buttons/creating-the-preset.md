@@ -22,5 +22,15 @@ Now you can define new default preset name using this tokens:
 
 **$obj** — as object name, **$group** — parameter group name, **$param** — parameter name, **$value** — parameter value. ****
 
+{% hint style="warning" %}
+#### Impotant note. Creating object, material, tag, render settings preset.
+
+Make sure all objects which you want save as preset have to be already exists in the scene before your button will be saved! If you try to delete _it entry will disappears from the preset list._ 
+{% endhint %}
+
+![Creating object preset](../.gitbook/assets/delete_object1.png)
+
+![What happens when you delete object in Object Manager](../.gitbook/assets/delete_object2.png)
+
 After specifying all the data in the drop zone, a new group will appear with the object. Thus, you can add an unlimited number of groups, and groups can be filled with an unlimited number of objects or parameters.
 
