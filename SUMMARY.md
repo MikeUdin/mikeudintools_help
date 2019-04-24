@@ -7,6 +7,7 @@
   * [Version history](takematpass/version-history.md)
   * [Overview](takematpass/overview.md)
   * [Videotutorials](takematpass/videotutorials.md)
+  * [Videotutorials](takematpass/videotutorials-1.md)
 * [Target 4D](target-4d/README.md)
   * [Version history](target-4d/version-history.md)
   * [How it works](target-4d/how-it-works.md)
