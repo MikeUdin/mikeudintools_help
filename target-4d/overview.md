@@ -42,7 +42,7 @@ Available for **Cinema 4D R18** and above. In this field you can put objects whi
 ![](../.gitbook/assets/1018.png)
 
 **Orientation** option sets the object axis that will be directed perpendicular to the surface.  
-**Auto \(-Y, + Y, -Z\)** orientation mode can be useful for automatically detecting horizontal and vertical surfaces like a floor or ceiling.  
+**Auto \(-Y, + Y, -Z\)** orientation mode can be useful for automatically detecting horizontal and vertical surfaces like a floor or a ceiling.  
 **Snap** parameter will help to place objects regarding the center of polygons, faces or vertices.  
 **Offset** option sets the up/down offset relative to the surface.  
 When the **Invert** option is on, the object will be placed on the back side of the surface.
@@ -52,7 +52,7 @@ When the **Invert** option is on, the object will be placed on the back side of 
 ![](../.gitbook/assets/1019.png)
 
 This option allows you to randomly change the properties of copies: position, scale and rotation.  
-**Attention!** The transformation axis is located on the surface of the polygon where object will placed.  
+**Attention!** The transformation axis is located on the surface of the polygon where object will be placed.  
 
 
 #### Animation

@@ -12,9 +12,9 @@ Use **Target 4D Tool Settings** to adjust options.
 
 Press **About** button to find more information about plug-in registration and tutorials.
 
-### Versions differences
+### Version differences
 
-Due the Cinema 4D Python API limitations there little difference of the display information about selected objects. Using Cinema 4D R18 und upper you'll see selected objects info under cursor, using earlear versions in status bar.
+Due to the Cinema 4D Python API limitations there is a little difference of the display information about selected objects. Using Cinema 4D R18 und higher you'll see selected objects info under cursor, using earlear versions in status bar.
 
 ![](../.gitbook/assets/target4d_versions_difference.gif)
 

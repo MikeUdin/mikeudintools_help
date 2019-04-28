@@ -8,5 +8,5 @@ Now assign an icon image to the button.
 
 To capture the icon of the active object, tag or material, select the desired object in the manager, then in the plug-in window, click the icon and open a pop-up menu.
 
-If necessary, you can specify a description of the button. In addition to the description specified by the user, will be added information about all the parameters contained in the presets.
+If necessary, you can specify a description of the button. In addition to the description specified by the user, information about all the parameters contained in the presets will be added.
 

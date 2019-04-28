@@ -7,7 +7,7 @@
 **This plug-in is designed to create user python scripts assigned to specific actions:**
 
 * Adding user objects, tags, materials, layers, render settings and etc.
-* Applying saved parameters  to document, objects, tags, materials, layers, view and render settings.
+* Applying saved parameters to documents, objects, tags, materials, layers, view and render settings.
 
 [Custom Buttons webpage](http://mikeudin.net/product/custom-buttons/)
 
