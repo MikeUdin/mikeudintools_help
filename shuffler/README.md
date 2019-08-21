@@ -6,5 +6,5 @@
 
  Free plugin **Shuffler** swaps certain properties of selected objects.
 
-Shuffler webpage
+Shuffler [webpage](https://mikeudin.net/product/shuffler/)
 
