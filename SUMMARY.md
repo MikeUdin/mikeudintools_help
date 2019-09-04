@@ -35,4 +35,7 @@
   * [Overview](flash-buffer/overview.md)
   * [Rename function](flash-buffer/rename-function.md)
   * [Videotutorials](flash-buffer/videotutorials.md)
+* [File Sequence Exporter](file-sequence-exporter/README.md)
+  * [Overview](file-sequence-exporter/overview.md)
+  * [Commanline mode](file-sequence-exporter/commanline-mode.md)
 
