@@ -38,4 +38,5 @@
 * [File Sequence Exporter](file-sequence-exporter/README.md)
   * [Overview](file-sequence-exporter/overview.md)
   * [Commanline mode](file-sequence-exporter/commanline-mode.md)
+  * [Videotutorials](file-sequence-exporter/videotutorials.md)
 
