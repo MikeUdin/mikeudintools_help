@@ -27,7 +27,8 @@ File will contain text as follows:
 	"fse_connected": true, 
 	"fse_time_range": "All", 
 	"fse_show_results": false, 
-	"fse_skip_hidden": true, 
+	"fse_skip_hidden": true,
+	"fse_shared_mtlfile":false, 
 	"fse_from_frame": 0, 
 	"fse_save_format": "c4d"
 }

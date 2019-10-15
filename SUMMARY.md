@@ -37,6 +37,7 @@
   * [Videotutorials](flash-buffer/videotutorials.md)
 * [File Sequence Exporter](file-sequence-exporter/README.md)
   * [Overview](file-sequence-exporter/overview.md)
+  * [Manage License](file-sequence-exporter/manage-license.md)
   * [Commanline mode](file-sequence-exporter/commanline-mode.md)
   * [Videotutorials](file-sequence-exporter/videotutorials.md)
 
