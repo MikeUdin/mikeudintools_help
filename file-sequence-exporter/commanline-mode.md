@@ -50,7 +50,7 @@ To get a full description of all plug-in commandline options, use **-h** option:
 
 ```typescript
 C:\Users\%USERNAME%>"c:\Program Files\MAXON\Cinema 4D R20\c4dpy.exe" -c "import c4d; c4d.CallCommand(1053078,1000)" -h
-usage: File Sequence Exporter v1.0 [-h] [-fse_settings FSE_SETTINGS]
+usage: File Sequence Exporter v1.1 [-h] [-fse_settings FSE_SETTINGS]
                                    [-fse_doc_path FSE_DOC_PATH]
                                    [-fse_save_path FSE_SAVE_PATH]
                                    [-fse_save_format {c4d,obj}]
@@ -60,12 +60,13 @@ usage: File Sequence Exporter v1.0 [-h] [-fse_settings FSE_SETTINGS]
                                    [-fse_poly_lod FSE_POLY_LOD]
                                    [-fse_selected {1,0}]
                                    [-fse_skip_hidden {1,0}]
+                                   [-fse_shared_mtlfile {1,0}]
                                    [-fse_connected {1,0}]
                                    [-fse_show_results {1,0}]
                                    [-fse_time_range {All,Preview,Manual,CurrentFrame}]
 
-Export scene geometry to Cinema 4d or Obj file. This command starts File
-Sequence Exporter in commandline mode.
+Export scene geometry to Cinema 4D or Obj file format. This command starts
+File Sequence Exporter in commandline mode.
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -88,12 +89,14 @@ optional arguments:
   -fse_selected {1,0}   Export only selected objects.
   -fse_skip_hidden {1,0}
                         Skip hidden objects.
+  -fse_shared_mtlfile {1,0}
+                        Single MTL file for entire obj file sequence.
   -fse_connected {1,0}  Connect all objects to new one.
   -fse_show_results {1,0}
                         Show export results in Explorer/Finder after
                         exporting.
   -fse_time_range {All,Preview,Manual,CurrentFrame}
-                        Timeline Frame range. Available values: All, Preview,
+                        Timeline Frames range. Available values: All, Preview,
                         Manual, CurrentFrame.
 ```
 
