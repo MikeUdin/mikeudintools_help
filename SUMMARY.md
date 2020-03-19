@@ -40,4 +40,9 @@
   * [Manage License](file-sequence-exporter/manage-license.md)
   * [Commanline mode](file-sequence-exporter/commanline-mode.md)
   * [Videotutorials](file-sequence-exporter/videotutorials.md)
+* [Batch Processor](batch-processor/README.md)
+  * [Version history](batch-processor/version-history.md)
+  * [Overview](batch-processor/overview.md)
+  * [Videotutorials](batch-processor/videotutorials.md)
+  * [User Scripts](batch-processor/user-scripts.md)
 
