@@ -46,5 +46,7 @@
   * [Videotutorials](batch-processor/videotutorials.md)
   * [User Scripts](batch-processor/user-scripts.md)
 * [PolyDivider](polydivider/README.md)
+  * [Version history](polydivider/version-history.md)
+  * [Overview](polydivider/overview.md)
   * [Videotutorials](polydivider/videotutorials.md)
 

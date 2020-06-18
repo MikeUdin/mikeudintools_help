@@ -12,7 +12,7 @@ description: Commanline mode with Cinema 4D R20 and upper
 
 Save Json-file with a plug-in parameters using menu **Help &gt; Save Settings To File**.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 File will contain text as follows:
 
@@ -98,5 +98,5 @@ optional arguments:
                         Manual, CurrentFrame.
 ```
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
