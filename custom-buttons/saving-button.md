@@ -4,7 +4,9 @@ Each button that can be created using the **Custom Buttons** plug-in is a python
 
 It is very important that the scripts must be located here
 
-_**c:\Users\%USERNAME%\AppData\Roaming\MAXON\CINEMA 4D \(your version\)\library\scripts**_
+_**Win: c:\Users\%USERNAME%\AppData\Roaming\MAXON\CINEMA 4D \(your version\)\library\scripts**_
+
+_**Mac:**_ **/Users/**_**%USERNAME%**_**/Library/Preferences/Maxon/Maxon Cinema 4D**_**\(your version\)**_**/library/scripts**
 
 In this directory, you can distribute scripts to subdirectories. In addition to the script file, the plug-in creates additional files containing preset data. Please, don't delete or move it. Without these files, the button will not work.
 
