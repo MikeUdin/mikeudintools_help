@@ -1,4 +1,6 @@
 # Videotutorials
 
-Will be available soon
+{% embed url="https://youtu.be/pL1IWurx\_Hs" %}
+
+
 
