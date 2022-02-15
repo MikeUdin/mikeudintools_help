@@ -8,7 +8,7 @@
 
 ### Options
 
-![PolyDivider interface](../.gitbook/assets/annotation-2020-05-21-122350.jpg)
+![](../.gitbook/assets/polydivider\_attributes.png)
 
 #### Iterations <a href="#dividerobject_sub" id="dividerobject_sub"></a>
 
