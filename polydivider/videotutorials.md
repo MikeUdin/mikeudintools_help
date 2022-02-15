@@ -6,9 +6,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=soRnTvaMTEA" %}
 
-{% embed url="https://www.youtube.com/watch?v=ueyV\_S9FzNE" %}
+{% embed url="https://www.youtube.com/watch?v=ueyV_S9FzNE" %}
 
 {% embed url="https://youtu.be/md8zeLbmV2k" %}
-
-
 

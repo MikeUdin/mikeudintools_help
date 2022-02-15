@@ -1,6 +1,6 @@
 # Target 4D
 
-![](../.gitbook/assets/mikeudin-target4d-feutures_5.gif)
+![](../.gitbook/assets/mikeudin-target4d-feutures\_5.gif)
 
 **Target 4d** is a Cinema 4D R17 and higher plug-in designed to move and/or copy selected objects onto the geometry surface of other scene objects. This tool is absolutely suitable for interior and exterior architectural use and will save you a lot of time:
 
@@ -12,8 +12,6 @@
 * Snapping. Quickly place objects to the center of the polygon, faces or vertices.
 * Flexible settings help you cope with various situations: inversion of normals, selected polygons, etc.
 
-[Target 4D webpage](http://mikeudin.net/product/target-4d/)  
-
-
+[Target 4D webpage](http://mikeudin.net/product/target-4d/)\
 
 

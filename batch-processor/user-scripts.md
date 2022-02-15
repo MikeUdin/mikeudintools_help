@@ -8,9 +8,9 @@ description: how to write user scripts for Batch Processor plugin
 
 Below is an example of a simple script, all the details of its writing are indicated in the comments.
 
-![Example User Script Output](../.gitbook/assets/image%20%284%29.png)
+![Example User Script Output](<../.gitbook/assets/image (4).png>)
 
-{% code title=".\\res\\scripts\\Demo\_Script.py" %}
+{% code title=".\res\scripts\Demo_Script.py" %}
 ```python
 import c4d
 from c4d import gui
@@ -109,6 +109,4 @@ def main(data):
 
 ```
 {% endcode %}
-
-
 
