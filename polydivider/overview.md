@@ -49,7 +49,7 @@ Polygons scaling
 
 ![](../.gitbook/assets/slide-with-linear-field.jpg)
 
-With the **Slide** option, polygon edges can be moved  along their surface. It works like **Scale** option but from particilar edge. Polygon sliding can be managed using Fields with it direction and strenght.&#x20;
+With the **Slide** option, polygon edges can be moved  along their surface. It works like **Scale** option but from particilar edge. Polygon sliding can be managed using Fields with it direction and strength.&#x20;
 
 #### Angle <a href="#dividerobject_slide" id="dividerobject_slide"></a>
 
