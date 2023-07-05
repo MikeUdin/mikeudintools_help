@@ -49,4 +49,10 @@
   * [Version history](polydivider/version-history.md)
   * [Overview](polydivider/overview.md)
   * [Videotutorials](polydivider/videotutorials.md)
-
+* [✌ VariText (coming soon)](varitext-coming-soon/README.md)
+  * [Table of contents](varitext-coming-soon/table-of-contents.md)
+  * [Installation](varitext-coming-soon/installation.md)
+  * [Version history](varitext-coming-soon/version-history.md)
+  * [Settings](varitext-coming-soon/settings.md)
+  * [User Interface](varitext-coming-soon/user-interface.md)
+  * [Videotutorials](varitext-coming-soon/videotutorials.md)

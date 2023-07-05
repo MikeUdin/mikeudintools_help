@@ -4,15 +4,15 @@ description: Commanline mode with Cinema 4D R20 and upper
 
 # Commanline mode
 
-**File Sequence Exporter**, used with Cinema 4D version R20 and higher, can be run in _commandline mode_. This mode provides additional opportunities for integrating the plug-in in batch files and scripts. To do this, use the [**c4dpy.exe**](https://developers.maxon.net/docs/Cinema4DPythonSDK/html/manuals/introduction/python_c4dpy.html) utility.
+**File Sequence Exporter**, used with Cinema 4D version R20 and higher, can be run in _commandline mode_. This mode provides additional opportunities for integrating the plug-in in batch files and scripts. To do this, use the [**c4dpy.exe**](https://developers.maxon.net/docs/Cinema4DPythonSDK/html/manuals/introduction/python\_c4dpy.html) utility.
 
-```text
+```
 "c:\Program Files\MAXON\Cinema 4D R20\c4dpy.exe" -c "import c4d; c4d.CallCommand (1053078,1000)" -fse_settings "c:\Users\%USERNAME%\Desktop\export_settings.json"
 ```
 
-Save Json-file with a plug-in parameters using menu **Help &gt; Save Settings To File**.
+Save Json-file with a plug-in parameters using menu **Help > Save Settings To File**.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 File will contain text as follows:
 
@@ -36,13 +36,13 @@ File will contain text as follows:
 
 Parameters from the json-file can be overridden by specifying them as a separate option in the command:
 
-```text
+```
 "c:\Program Files\MAXON\Cinema 4D R20\c4dpy.exe" -c "import c4d; c4d.CallCommand (1053078,1000)" -fse_settings "c:\Users\%USERNAME%\Desktop\export_settings.json" -fse_doc_path "C:\WorkFolder\other_file_to_export.c4d" -fse_show_results 1 -fse_time_range "Preview"
 ```
 
 To get a full description of all plug-in commandline options, use **-h** option:
 
-```text
+```
 "c:\Program Files\MAXON\Cinema 4D R20\c4dpy.exe" -c "import c4d; c4d.CallCommand(1053078,1000)" -h
 ```
 
@@ -98,5 +98,4 @@ optional arguments:
                         Manual, CurrentFrame.
 ```
 
-![](../.gitbook/assets/image%20%282%29.png)
-
+![](<../.gitbook/assets/image (2).png>)
