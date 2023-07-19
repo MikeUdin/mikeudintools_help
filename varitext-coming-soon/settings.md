@@ -1,4 +1,4 @@
-# Settings
+# ⚙ Settings
 
 <figure><img src="../.gitbook/assets/VariText Settings.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,4 +1,4 @@
-# Version history
+# ⏳ Version history
 
 ### v1.0
 

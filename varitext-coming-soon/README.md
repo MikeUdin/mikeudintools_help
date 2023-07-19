@@ -1,4 +1,4 @@
-# ✌ VariText (coming soon)
+# 🆕 VariText (coming soon)
 
 ## Overview
 
@@ -18,22 +18,22 @@ With [VariText](https://mikeudin.net/product/varitext-for-cinema-4d/), you can n
 
 ## Quick links
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="installation.md" %}
+[installation.md](installation.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="version-history.md" %}
+[version-history.md](version-history.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="settings.md" %}
+[settings.md](settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="user-interface.md" %}
+[user-interface.md](user-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="videotutorials.md" %}
+[videotutorials.md](videotutorials.md)
 {% endcontent-ref %}

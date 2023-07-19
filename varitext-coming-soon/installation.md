@@ -1,4 +1,4 @@
-# Installation
+# 🛠 Installation
 
 VariText for Cinema 4D works on MacOs and Windows. It is Cinema 4D Python API based plugin but required Python installed into OS. Before you start using VariText please install Python [from official webpage.](https://www.python.org/downloads/)
 

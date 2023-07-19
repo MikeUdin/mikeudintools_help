@@ -1,4 +1,4 @@
-# User Interface
+# 🎛 User Interface
 
 **VariText** is a Cinema 4D Object plug-in. You can find it in application menu **Plugins ( Extentions) > VariText**.
 
