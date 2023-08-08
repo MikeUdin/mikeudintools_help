@@ -64,8 +64,22 @@ With this options you can animate variation axes with Cinema 4D Fields functiona
 
 **Display.** These settings serve as visual aides for the depiction of various properties.
 
-**Bake to spline.** Create PLA animated spline object from VariText generator. After clicking Bake button a new spline object will be created.
+**Bake to spline.** Create PLA animated spline object from VariText generator. After clicking Bake button a new spline object will be created.&#x20;
+
+_Start and End: Animation time range to bake._
+
+_Mode_. Define here what should happen at the end of the animation:
+
+* _Play_: The animation stops.
+* _Loop_: The animation will begin again.
+* _Ping-Pong_: The animation will run continually forwards and backwards.
+
+_Loop. Define loops count for animation modes Loop and Ping-Pong._
 
 #### Info tab
 
-**About** button open an additional window with Manage License button, this online help and feedback.
+**Fonts Licensing Info.** Here finds info about fonts included into VariText installation.
+
+**Log.** With this section user can trace VariText errors and send it to support team.
+
+**About** button open an additional dialog window with _Manage License_ button, this online help and feedback page.
