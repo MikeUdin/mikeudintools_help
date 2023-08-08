@@ -64,6 +64,8 @@ With this options you can animate variation axes with Cinema 4D Fields functiona
 
 **Display.** These settings serve as visual aides for the depiction of various properties.
 
+**Bake to spline.** Create PLA animated spline object from VariText generator. After clicking Bake button a new spline object will be created.
+
 #### Info tab
 
 **About** button open an additional window with Manage License button, this online help and feedback.
