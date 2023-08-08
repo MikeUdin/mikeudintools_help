@@ -12,7 +12,7 @@ Internet access for license activation.
 
 VariText installation video
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+{% embed url="https://youtu.be/KzpvRLY96Yc" %}
 
 ## Activation
 
