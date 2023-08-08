@@ -1,4 +1,4 @@
-# 🆕 VariText (coming soon)
+# 🆕 VariText
 
 ## Overview
 
@@ -15,6 +15,8 @@ With variable fonts, multiple font styles can be consolidated into a single file
 The flexibility of variable fonts extends to animations and interactivity. Designers can animate font attributes smoothly, allowing for engaging and dynamic typography effects. This adds a layer of visual interest and enhances user experience in interactive applications.
 
 With [VariText](https://mikeudin.net/product/varitext-for-cinema-4d/), you can now harness the full potential of variable fonts within Cinema 4D. Seamlessly integrate this cutting-edge technology into your projects and unlock a world of possibilities.
+
+{% embed url="https://mikeudin-net.s3.amazonaws.com/varitext/varitext_for_cinema4d_example.mp4" %}
 
 ## Quick links
 
