@@ -13,7 +13,7 @@ Stopping the server make sure that active document have no VariText objects! Oth
 {% endhint %}
 
 **Font Locations.** In this section user can install additional fonts to the plugin.\
-**Include System Fonts** checkbox let you add fonts already installed to the OS.\
+**Include System Fonts** checkbox let you add variable fonts already installed to the OS.\
 **User Fonts Path** let to user add to the list paths of directories containing fonts.
 
 {% hint style="success" %}
