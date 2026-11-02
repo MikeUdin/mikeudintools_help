@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Mike Udin Tools
+  structure:
+    - type: space
+      key: space-1
+      title: 1.0.1
+      path: "101"
+      default: true
+      content:
+        directory: ./101
