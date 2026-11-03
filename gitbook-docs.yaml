@@ -8,4 +8,4 @@ site:
       path: "101"
       default: true
       content:
-        directory: ./101
+        directory: ./
